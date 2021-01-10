@@ -1,1 +1,1 @@
-# Game-of-Life
+# C data types
