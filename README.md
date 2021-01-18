@@ -1,1 +1,1 @@
-# C data types
+# C data structures
